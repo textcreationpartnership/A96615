@@ -1,0 +1,537 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A paraenetick or Humble addresse to the Parliament and assembly for (not loose, but) Christian libertie. Perused and allowed according to order.</title>
+            <author>Williams, Roger, 1604?-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96615</idno>
+            <idno type="STC">Wing W2768</idno>
+            <idno type="STC">Thomason E19_10</idno>
+            <idno type="STC">ESTC R10999</idno>
+            <idno type="EEBO-CITATION">99858913</idno>
+            <idno type="PROQUEST">99858913</idno>
+            <idno type="VID">110973</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96615)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110973)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E19[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A paraenetick or Humble addresse to the Parliament and assembly for (not loose, but) Christian libertie. Perused and allowed according to order.</title>
+                  <author>Williams, Roger, 1604?-1683.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons for Henry Overton in Popes-Head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Roger Williams.</note>
+                  <note>Annotation on Thomason copy: "Novemb. 30:".</note>
+                  <note>"Perused and allowed according to Order."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of religion --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Pamphlets.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110973:1" rendition="simple:additions"/>
+            <p>A PARAENETICK <hi>OR</hi> HUMBLE ADDRESSE TO THE PARLIAMENT AND <hi>ASSEMBLY</hi> FOR (NOT LOOSE, BUT) CHRISTIAN LIBERTIE.</p>
+            <p>
+               <hi>Peruſed and allowed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Matthew Simmons</hi> for <hi>Henry Overton</hi> in <hi>Popes-Head-Alley.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110973:2"/>
+            <pb n="1" facs="tcp:110973:2"/>
+            <head>A PARAENETICK, <hi>OR</hi> HUMBLE ADDRESSE to the PARLIAMENT and ASSEMBLY for (not looſe, but) CHRISTIAN LIBERTIE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HERE have been many <hi>Nayles and Goades</hi> ſharpened in this Argument, by <hi>Maſters of the Aſſemblies,</hi> if there were but a ſteady hand to drive them home, and faſten them. The LORD faſten them by his Spirit, in the hearts of all whom they concerne, of all before whom now lyes an opportu<g ref="char:EOLhyphen"/>nitie of <hi>killing and making alive,</hi> that yee doe not now put out that onely Coale that is left to us, (after all our ſufferings and privations) our <hi>Chriſtian Libertie.</hi>
+            </p>
+            <p>How have wee promiſed our ſelves (not in the leaſt diffiding the Reaſonableneſſe of ſuch an Expectation) <hi>that though wee did eat the bread of affliction, and drink the water of adverſitie, yet our eyes ſhould ſee our Teachers, and they ſhould no more be thruſt into Corners?</hi> And if this hope faile us, wee are of all <hi>men moſt miſerable.</hi> Had wee not better, if wee had looked at our ſelves onely, and not at the common Cauſe, while wee had ſomething, to have betaken our ſelves into ſome remote Iland; then after the loſſe of all to
+<pb n="2" facs="tcp:110973:3"/>have it ſet on the ſcore of a mercy and kindnes to us, to be quietly diſmiſſ thither? Wherein wee ſhould finde it (for wee already feele the workings of it) no ſmall aggravation of our Affliction, the Conſideration of thoſe from whoſe faces we flee. If it were an Enemy, (deare Friends and Brethren) if it were the Biſhops do<g ref="char:EOLhyphen"/>ings, wee ſhould not marvaile, we could better beare it; but what, you, our Brethren, our Companions once in the ſame iron yoke and furnace of af<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iction, (the deareſt Remembrance that can be) that <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Corner<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> that <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve ſate and wept tog<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther by <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Sio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> up with<g ref="char:punc">▪</g> W<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>es,</hi> bemoaning our ſelves <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> another; and are the ſame men ſtill both for Religion to ward God, and af<g ref="char:EOLhyphen"/>fection toward you! <hi>O<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> it not in G<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, publiſh it not in Askelon, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> P<gap reason="illegible" resp="#PDCC" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, and the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> tri<g ref="char:EOLhyphen"/>umph.</hi> Let not Malignants heare of i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Papiſts and Atheiſts, Neu<g ref="char:EOLhyphen"/>trall Proteſtants, and hollow he<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d Profeſſors: and oh <hi>that the th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſand yeare<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> were be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un that the Devill were ſhut up too, (who <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ather is let looſe now) that there be not joy in, hell for the diviſi<g ref="char:EOLhyphen"/>ons of the Brethren! But ſeemes it not reaſonable to you (that which ſeemes ſo reaſonable to Chriſt) that we who have <hi>ſuffered</hi> with you, ſhould <hi>reigne</hi> with you, and that Comfort being reſtored to <hi>Jeruſalem,</hi> all her <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ers</hi> ſhould have a ſhare in it? Or are wee thoſe vaſialls alone that now in this yeare of <hi>Ju<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilee,</hi> muſt whether wee will or no, have our eares boared, when all other liberties are vindicated? Is it for that wee have no <hi>T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ullus</hi> to plead our Cauſe, or for that wee are few and peaceable, and you may uſe us how you lift? Sure it is not in you to make ſo ill an uſe of our good Principles? However, be it knowne to you, <hi>our R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>deemer is ſtrong,</hi> and thou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h he be gone a long journey, yet he will come upon thoſe <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ants,</hi> that (ſecure through his delay) fall a beating in ſtead of feeding their fellow-ſervants; <hi>He will come in an houre wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> they are not awa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and look not for him;</hi> as he did before your eyes upon the domineering generation of the Prelacy. The more you opp<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>le us, the more wee ſhall grow. <hi>Refraine from us there<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, and let us alone; for if this Counſell, or this work be of men, it will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to naught, but if it he of God, yee cannot overthr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w it, leſt haply <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ters againſt God.</hi> Stand therefore to Gods arbitra<g ref="char:EOLhyphen"/>ment. If we build upon the true foundation, <hi>with bay and ſtubble,
+<pb n="3" facs="tcp:110973:3"/>the day ſhall declare it; for it ſhall be revealed by fire, and our work ſhall he burnt,</hi> though wee ſhall be ſaved.</p>
+            <p>Prejudice not your ſelves further (Brethren) or your way: For God hath ſaid;<note n="*" place="margin">Eſay 11.9.</note> 
+               <hi>There ſhall be no deſtroying beaſt in all his holy Mountaine.</hi> The Beaſts of prey come from <hi>Mount Seir,</hi> not from <hi>Mount Sion. Eſut</hi> was rough, hairy, and lordly: <hi>J<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>b</hi> was ſmooth, plaine, and pleaſant. Is it a forme agreeable to you, to be as that Image in <hi>Nebuch adnezz<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs</hi> Viſion, <hi>That was dreadfull and terrible, having great iron teeth, devouring and breaking in pieces, and ſtamping the reſidue with the feet?</hi> Or will you not rather <hi>ride on and proſper, becauſe of truth, and righteouſneſſe, and meekneſſe?</hi> So ſhould you carry the hearts and votes of all men along with you, <hi>but thoſe that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> loſt.</hi> And we truſted wee had ſeene a hopefull beginning, that wee might have improved to a greater Expectation; when (beſides former expreſſe incouragements miniſtred to us by pregnant paſſa<g ref="char:EOLhyphen"/>ges of great note and obſervation with us in certain Declarations or Ordinances of Parliament, which except need be, we are loath to repeat) God had lately put it into the heart of the Parliament, to conſider the juſt and mercifull accommodation of tender Con<g ref="char:EOLhyphen"/>ſciences. Which makes us the more amazed and aſtoniſhed at the ſudden prejudice wee ſeeme to have received in their affections, and the varied, yea, contrary aſpect both of Parliament and Aſ<g ref="char:EOLhyphen"/>ſembly upon us, who are no other then wee were before, and have continued in your ſeverall and reſpective ſervice and aſſiſtance, with the ſame faithfulneſſe ſince as ever: Wherein God hath been very mercifull unto us, (whether it be acknowledged to us or no, it muſt be acknowledged by us to him) that hath made us faith<g ref="char:EOLhyphen"/>full, and not one Inſtance can be given of the contrary:<note n="*" place="margin">Jer. 14.19.</note> 
+               <hi>And wee lookt for peace, and there's no good, and for the time of heating, and behold trouble;</hi> Yet wee are neither ſo prophane nor deſperate, as (with <hi>Eſut</hi>) to ſell our Birth-right for a meſſe of portage, nor our hopes in your Juſtice and Clemency, for the quiet injoyment of it, for a thing of naught. Wee hope this ſeeming remiſſion and intermiſ<g ref="char:EOLhyphen"/>ſion of theſe Counſels of peace in behalfe of us, ſhall but make them rebound the higher, and run the ſtronger. And therefore wee ceaſe not to pray for you, (moſt juſt Senators) that God would hide repentance from your eyes; that the Lord that ſtirr'd up <hi>Cyrus, Darius,</hi> and <hi>Artaxerxes,</hi> and hodg'd them in by his power<g ref="char:EOLhyphen"/>full
+<pb n="4" facs="tcp:110973:4"/>Spirit would keepe this in the thought and purpoſe of your heart, till you have brought it to perfection. Truly there is a dreadfull opportunity before you of gladding the hearts of thou<g ref="char:EOLhyphen"/>ſands, your kindneſſe unto whom Chriſt will put upon his own account; a dreadfull opportunity, I ſay, if either omitted, or not proportionably improved. Let it never be ſaid, yee did run well, who did hinder you? nay, who can hinder you, or who ſhall harm you if you be followers of that that is good? There is nothing (under Chriſt) wanting to make us live quietly by one another, though of ſeverall judgements, whileſt we agree in funda<g ref="char:EOLhyphen"/>mentals, but your word to bid us do ſo.</p>
+            <p>Is it not time for the Lords Harbingers and Trumpeters, to ſound the allarm to the great and dreadfull day of the Lord, and to apply your ſelves now <hi>to turne the hearts of fathers to the children, and of the children to the fathers, leſt the Lord come and ſmite the earth with a c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe?</hi> Nay, hath hee not ſorely ſmitten us, for not only the neglect, but the contempt of this preſcription by a contrary practi<g ref="char:EOLhyphen"/>ſing, even ſetting the Fathers, the nurſing-fathers of the Church (thoſe that ſhould be ſo) againſt their children? And indeed excuſe us, if when wee conſider how faire wee were for a good iſſue of theſe common troubles of late, when God gave us thoſe many Occaſions, and thoſe ſolemne Opportunities of praiſe and thankſgiving, when ſome can ſay (if ever) they found their hearts then drawn forth in earneſt ſupplications and triumphant ex<g ref="char:EOLhyphen"/>pectations of a ſmooth ſucceſſe; and inſtead thereof, what an unuſuall returne wee had from the hand of God, contrary to the tenour of his former proceedings, beating back our hopes upon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and when wee compare this with former the like paſſages of providence in the like juncture of times; (as that ill ſucceſſe that in<g ref="char:EOLhyphen"/>terrupted the Petition ready to be preſented at the Common-Councel againſt us) and alſo compare theſe with ſome Scriptures, and Scripture examples, How God hath made <hi>Jeruſalem a burthen<g ref="char:EOLhyphen"/>ſome ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>te, &amp;c.</hi> Zech. 12. and how he hath formerly rebuked kings for his peoples ſakes, ſaying, <hi>Touch not mine anointed, &amp;c.</hi> and how he brought <hi>Artaxerxes</hi> and his Realm under wrath for that cauſe, <hi>Ezra</hi> 7. and conſider how righteous this is, that if the children fall out the father ſhould make the third; excuſe us, I ſay, if we can give no better account of theſe things but the Lords jealouſie over his peoples liberties.</p>
+            <p>
+               <pb n="5" facs="tcp:110973:4"/>
+Wherefore, if pity will not move you, let equity at leaſt con<g ref="char:EOLhyphen"/>ſtrain you:<note n="*" place="margin">1 Theſ. 4.6.</note> 
+               <hi>Let no man go beyond or defraud his brother,</hi> ſaith the Apoſtle. Have you taken of us a price? deny us not our commodi<g ref="char:EOLhyphen"/>ty; Chriſt bought our liberties for us with his blood, wee have bought them over again at your hands with our own blood, ſhed not for our ſelves only, but for you alſo. We have ſet you down, as it were, where you would be; We have diſlodged the <hi>Ca<g ref="char:EOLhyphen"/>naanites</hi> before you, wee are neceſſitated to paſſe on further; it were but your duty to march on before us, and give us quiet poſ<g ref="char:EOLhyphen"/>ſeſſion with you. Wee have fought, and adventured purſe and perſon upon this expectation of Liberty, (not of another Religion, but) of this way of walking in your Religion; as of the Liberty of the Religion it ſelf, which we eyed in the firſt place; If nothing leſſe was in your hearts, why did you not tell us ſo? Nay, why hath the Aſſembly born us in hand with ſuch hopes and intimati<g ref="char:EOLhyphen"/>ons? Why have ſuch Conſiderations been tendred to us, intima<g ref="char:EOLhyphen"/>ting; nay, almoſt aſſuring us, an after-liberty upon condition of a preſent modeſty in that juncture of time only. For what elſe is the tenour of the 5<hi rend="sup">th</hi> Conſideration, publiſhed <hi>Dec.</hi> 23.1643. in theſe words, That it is not to be doubted, but the Counſels of the Aſſembly, and the care of the Parliament will be, not only to reforme and ſet up Religion throughout the Nation, but will concurre <hi>to preſerve what ever ſhall appeare to be the RIGHTS of particular CONGREGATIONS, according to the Word, and to heare with ſuch, whoſe Conſciences cannot in all things conform to the pub<g ref="char:EOLhyphen"/>like Rule, ſo far as the Word of God would have them born withall,</hi> which is all that we deſire. What did you do with thoſe terms, <hi>The Rights of particular Congregations?</hi> and theſe contradiſtinguiſhed to the ge<g ref="char:EOLhyphen"/>nerall Reformation and ſetting up of Religion through the King<g ref="char:EOLhyphen"/>dome, if you did not ſpeake to our ſenſe? But (you will ſay) 'tis cautioned, <hi>What ever ſhall appeare according to the Word.</hi> To whom mean you it ſhould appeare? To your ſelves? What promiſe were this? To preſerve what ever appeares to you, is not <hi>grace,</hi> but <hi>debt;</hi> and if this was your meaning, you might have ſaid more properly, When ever theſe Rights ſhould appear to you; and if by <hi>[according to the Word]</hi> you meant only, in your own interpretation, that's not thank-worthy: what bait is held out to us therein, but a mi<g ref="char:EOLhyphen"/>ſerable colluſion? But the latter part of the Conſideration is more
+<pb n="6" facs="tcp:110973:5"/>expreſſe, which promiſe <hi>a bearing with thoſe whoſe Conſciences cannot in all things <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to the publique Rule.</hi> And what though it fol<g ref="char:EOLhyphen"/>low, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> as the Word of God would have them born withall?</hi> for that implies a conceſſion, that the <hi>Word would have them born withall;</hi> otherwiſe why do you bob our mouths with theſe Apples of li<g ref="char:EOLhyphen"/>berty and toleration, and condeſcend to terms of the meaſure there <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f, if no ſuch thing in any degree be due unto us, or warran<g ref="char:EOLhyphen"/>table by the Word? Why then do you give place to us ſo much, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for an <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and if a toleration duly bounded be divine, then how have you indeavoured it; or why do you not indeavour that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> What <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or title of toleration have you yet brought <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>th, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do you given us hopes of in your proceedings hitherto? What things more terrible, and more void and excluſive of all bearing, and forbearing can you meditate yet, then Fines, Priſons, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> prohibiting the exerciſe of our <hi>Way</hi> and our <hi>Miniſtery,</hi> but upon hard conditions; which things wee have too much cauſe to feare and expect, as not exceeding the rate and proportion of ſome preſent concluſions, and more menacing agitations. Judge now whether the performance of this Conſideration be not yet whol<g ref="char:EOLhyphen"/>ly in a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ere to us.</p>
+            <p>And to minde you of ſome other paſſages; What do you in that earneſt intreating Miniſters and People (<hi>Conſid.</hi> 6.) to for<g ref="char:EOLhyphen"/>beare for a convenient time, the joyning themſelves into Church-ſocieties, <hi>untill they ſee whether the right Rule will not be commen<g ref="char:EOLhyphen"/>ded to them in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> orderly way?</hi> I ſay, what do you in this, but ſet us as liberty afterwards? And why do you there beſpeak us as free-men, if you made account (and it be in your power) to make us bond-men, or uſe us ſo? And further, why doth the Aſſembly (in the 7<hi rend="sup">th</hi> 
+               <hi>Conſideration</hi>) glance with that congratulatory re<g ref="char:EOLhyphen"/>ſpect upon the liberty, to ſerve God according to his Word, which we injoy in this time, more then hath been at any time in <hi>England</hi> ſince the beginning of the Reformation, if it be not a juſt liber<g ref="char:EOLhyphen"/>ty<g ref="char:punc">▪</g> and if it be juſt, why doth it begin to be contracted? at leaſt ſome part of that liberty wee have injoyed? <hi>viz.</hi> preaching with<g ref="char:EOLhyphen"/>out ordination, till we can have it according to our conſciences? And laſtly, do you not cheriſh as great a hope in us, as all that wee have ask<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, or ſhall aske, comes to, in the laſt <hi>Conſideration;</hi> where you pawn your own hopes to cheriſh ours, that wee ſhall
+<pb n="7" facs="tcp:110973:5"/>never come to ſuffer for doing what ſhall appeare to be our duty, though not co-incident with the publique Rule given us; where you muſt mean what ſhall apeare <hi>[to us]</hi> to be our duty; for wee cannot feare we ſhall ever ſuffer by you for what appeares <hi>[to you]</hi> to be our duty. And how can you be comforters of us in ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſufferings, as you are in the ſequele of that <hi>Conſideration,</hi> if they be not <hi>ſufferings for righteouſneſſe ſake?</hi> and if they be, how mi<g ref="char:EOLhyphen"/>ſerable men are you, to be the authors of them? Or do you count it no ſuffering for all the Miniſters of this <hi>Way</hi> to be de<g ref="char:EOLhyphen"/>prived of their livelihoods and opportunities to ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve God with their gifts, and their flocks depending on them bereft of their food Pardon this repetition, it is not done to reproach or upbraid you, but timely to warn and remember you.</p>
+            <p>Theſe were not over forward expreſſions only dropping caſual<g ref="char:EOLhyphen"/>ly from ſome more remiſſe and neutrall ſpirits undertaking for you without your warrant (which you might judge it credulity in us to reckon upon, and injury to challenge you by) but ſerious deliberations and concluſions of your own miniſtred to us by ſome in the name of you all, not whiſper'd in the eare, but publiſhed to the world, and to be underſtood in the proper, plain, and naturall ſenſe of the words and phraſes commonly, holding forth to us a bait of timely and ſeaſonable liberty. Now your intention here<g ref="char:EOLhyphen"/>in was either fained, meerly to make us ſleep away our opportu<g ref="char:EOLhyphen"/>nity upon the knees of vain promiſes and hopes, till your cords were twiſted, and your bonds upon us; and ſo all theſe paſſages are but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, empty forms, and ſhapes, words fill'd with wind, condenſed by a ſleighty contexture, into a very promiſing and ſpecious appearance only, which is not to ſpeake the truth in Chriſt, but to be corrupted from the ſimplicity that is in Him: Or your intention was reall, as indeed purpoſing to gratifie and accommodate us after the Rule agreed upon for the Kingdome; and ſo there was reality in your words, which is that alone that honeſt men will offer, and wiſe men conſider; and if ſo, this deſign was either good or evill: If evill, then it might not be undertaken for the greateſt good that could come thereof; and why do you not retract and repent publikely of giving ſuch hopes in your Con<g ref="char:EOLhyphen"/>ſiderations? But if it were good and juſt, why is it not purſued? Whether theſe do call upon you audibly, being your own words,
+<pb n="8" facs="tcp:110973:6"/>promiſes, ingagements, let all indifferent men judge; but ſurely our lives ſpent for you cry aloud for love and mercy to be ſhewed us from you; <hi>Thou ſhalt not muz<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le the mouth of the Oxe that treadeth out the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Hee that planteth a Vineyard, ſhall eat of the fruit there<g ref="char:EOLhyphen"/>of.</hi> Doth God take care for Oxen? would hee not have us die in an Oxes debt? and is it meet and congruous his children (whom he can maintain without being beholding to the world) ſhould hire out themſelves for nothing more then the common, when they fam would, but cannot live upon it? God forbid all our priviledge ſhould be, that wee ſhall be laſt eaten, that when you have done with the more dangerous enemy, you ſhould turn your hand upon us; ſhall this foul blot of ingratitude lie upon you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Will you ſo bury all your fame and glorious achievements in ſo horrid a pit? Will you ſo diſappoint the expectation of meek ſouls, who hope for this, as an additionall recompence (next to the li<g ref="char:EOLhyphen"/>berties of the Kingdome, and of the Proteſtant Religion) for the lives of Brethren, Husbands, Friends loſt in the publique ſervice and defence? How inacceſſible ſoever ſuch cries may be to your eares now through the multitude of your buſineſſes and tumultu<g ref="char:EOLhyphen"/>ouſneſſe of your thoughts for preſent; yet ſure there will be a dead of the night, when the leaſt noiſe will be heard; I had rather ſay, there will be a morning, when your eyes will be opened, and <hi>it will not repent you,</hi> the kindneſſe you have ſhewed, and the violence you have forborn to tender conſciences. Good, my brethren, is your ſleep too ſweet unto you, and your beds too ſoft, and your con<g ref="char:EOLhyphen"/>ſciences at too much caſe, that you deſire to create more trouble unto your ſelves, and to bring the neglected <hi>votes of the dead</hi> (ſa<g ref="char:EOLhyphen"/>cred among all) upon you, who laid down their lives upon no other condition, then <hi>Liberty,</hi> firſt of the Kingdome, then of the Conſcience in the Proteſtant Religion, that they nor you might be inſlav'd in either; would it not ſhame you, the cry of the widows and orphanes of ſuch perſons. Do you take away my liberty, re<g ref="char:EOLhyphen"/>ſtore my husband who died to purchaſe it for you? would it not ſcare you, ſhould the Ghoſts of thoſe perſons that have died in this Cauſe (thoſe many hundred ſouls, that while they lived, were laden with the reproach of their conſciences, but ſufficient<g ref="char:EOLhyphen"/>ly vindicated the worthineſſe of their ſpirits by their doings and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings ſo freely, ſo cheerfully undertaken:) I ſay, ſhould they
+<pb n="9" facs="tcp:110973:6"/>come to your bed-ſides and cry, Give us our lives againe; we laid them downe for your liberty, performe the like for us; or beare the guilt of ingratitude, and injuſtice? O ſhould they but tell you the lamentable Stories of their warfare, what affections of deareſt Relations they conflicted withall, and were faine to deſpiſe and over-rule with an high hand in their firſt ingagements, even tear<g ref="char:EOLhyphen"/>ing themſelves from wives and children, almoſt contrary to the Apoſtles Rule, and far exceeding the higheſt diſpenſation for the moſt abſolute ſervice of <hi>prayer and faſting:</hi> And what hardſhip they endured of hunger and cold, and watchings, and wearineſſe: What wounds they have ſuſtain'd, what ſtreames of bloud they have loſt, what agonies they have been in, and how they have borne downe with a high hand all ſtarting doubts and feares, leſt they ſhould not ſow a conſiderable advantage unto them<g ref="char:EOLhyphen"/>ſelves in thoſe adventures, and whether or no they ſhould indeed water a crop of ingenuous (nay Chriſtian) liberty to you and themſelves, or their poſteritie at leaſt with their bloud: Should they tell you, how they have undertaken to their owne miſgiving hearts and cautelous ſpirits, that their labour ſhould not be in vaine, that they ſhould not loſe their lives for naught, they did not ſerve ſuch Maſters: No, they were confident <hi>another Pharaoh muſt ariſe,</hi> before <hi>Joſeph</hi> ſhould be forgotten: Should they but tell you, how their Faith did put in bayle to their Reaſon, and how this comforted them in all their anguiſh, and it made their fare<g ref="char:EOLhyphen"/>well out of this life ſweet; and twas the laſt proſpect or Landskip of this Iland that they ſaw, they beheld it as <hi>the habitation of righ<g ref="char:EOLhyphen"/>teouſneſſe, the faithfull Citie.</hi> Should they tell you, how ambitious they were of wounds, how prodigall of their bloud, how deſirous to dye, that by their death they might make a feaſt of <hi>libertie</hi> to their Brethren in this particular. And ſhould they from thence fall to this Expoſtulation; Shall wee dye for you, and muſt not our friends <hi>live</hi> with you, who are of the ſame religion with you? Did you ſend us out to be cut off, and to make a hand of us? Did you ſlay part of us in the field with the ſword of the Enemy, that you might the eaſier ſuppreſſe the reſidue at home? Do you count us no better then to be ſwords-meat, and to ſtop the mouthes of Canons? <hi>O Earth, cover thou not our bloud, the Lord behold it and re<g ref="char:EOLhyphen"/>quire it.</hi> Should ſuch a din fill your eares ſleeping and waking,
+<pb n="10" facs="tcp:110973:7"/>what fruit would you have of your violent proceedings? Should you effect your purpoſe, ſuppreſſe our Way, and caſt forth our perſon out of this good Land, could you put the price of our bloud into the treaſury? Would you have any <hi>liſt to roaſt what <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ning?</hi> Would not your ſtomacks nauſeate and turne againe at the raw and bloudy cruelty of the game? Take up, Oh take up betimes, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r you not that it will be bitterneſſe in the lat<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> end<g ref="char:punc">▪</g>
+               </hi> Are we not your fellow-ſervants and Brethren? Did not the ſame hand make us, that made you? And is there not one Fa<g ref="char:EOLhyphen"/>ther of us both? One Lord, on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith, one Baptiſme, one Religi<g ref="char:EOLhyphen"/>on? Are you the onely rightfull Inhabitants of this good Coun<g ref="char:EOLhyphen"/>trey? And is there not a curſe denounced againſt <hi>thoſe that lay houſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd land to land, that they may dwell done?</hi> Doe you ſtand <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no more need of us, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have wee been reprieved till now, onely as the <hi>C<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>tes</hi> to help you to maſter the Lyons, &amp; the wild Beaſts, that they prevaile not againſt you:</p>
+            <p>Brethren, I would to God there were no Diviſions among us; I wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it u<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er the Imperiall law of Heaven, and my hearts deſire and prayer for <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gland</hi> is, that they were of one heart, and one way: <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that upon any Scripture-ground to be expected here (at leaſt till thoſe <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> daye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> come) while we <hi>know but in part?</hi> Muſt we never be of one heart, till we be of one way? Then belike thoſe Exhortations <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, and Chriſtian forbearance of one another; and not to j<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, but to keep the imitie of the Spirit,</hi> are not viſions which the Apoſtles ſaw for theſe dayes. <hi>The time is not yet,</hi> as the <hi>J<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> ſaid, <hi>Hag.</hi> 2. But the Lord may anſwer us as he an<g ref="char:EOLhyphen"/>ſwered them: <hi>Is it time f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> you, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to dwell in your ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iled houſes, &amp;c?</hi> So is it time for <note n="(a)" place="margin">Q<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> qu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> l<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> i<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>lat Sa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cataph<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>actas, quod de <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edere concordae <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> &amp; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cumvaliant; Elegantis ſimè Lutherus <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> qua<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tie <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, quaſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ni <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am un ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſae ſabruae m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nitantes, inhient<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> deveraturi v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vilapi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s in vero Templo col<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ocati? Praeſertim cum &amp; <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Templo tam ar<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſe, non tant um ſin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> deformi Cicatrice vulner is, ſed <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>noguclat v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rentur, ut impon<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ent <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ulo ſpectatoris, quod a non<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> &amp; facta: <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> quaſi tota males in tantam nagnitudinem, ex <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>gere<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Says our</hi> Stoughto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>in his</hi> Faelicitasultina ſae en<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> ag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> you to agree and make your common engage<g ref="char:EOLhyphen"/>ment againſt any of the Lambes of Chriſt, the ground of a renew<g ref="char:EOLhyphen"/>ed friendſhip? Is it a time for Papiſts, Atheiſts, looſe and carnall
+<pb n="11" facs="tcp:110973:7"/>Proteſtants and Malignants to agree, laying aſide their particular intereſts, opinions, and differences? Is it a time for <hi>French,</hi> and <hi>Spaniards,</hi> and <hi>Danes,</hi> and <hi>Walloones,</hi> and <hi>Iriſh Rebells</hi> to agree and make a confederacy with our homeborne Vipers againſt the truth? And is it not a time for us to agree for the truth? Is it a time for godly able men, that have in a great part renounced the hidden things of Antichriſtian darknes, to agree with ignorant ſuperſtiti<g ref="char:EOLhyphen"/>ous Ceremony-mongers, (that are devoted ſtill to a Common-Prayer-Booke, and petition for a Captain to lead them back into <hi>Aegypt</hi>) and with the meaneſt and unworthieſt ſpirits, (that will but ſerve the time, and acknowledge their ſoveraigntie) as good Chriſtians and able Miniſters, to make their party ſtronger? And is it not a time to agree with thoſe that denying themſelves, and the world, profeſſe to ſeek the truth in love. Is all truth among one ſort of men? Hath not Chriſt rendred his members all in a mutuall need of one another?<note n="*" place="margin">Which cloſe Conjunction &amp; Cementing is made onely by love. Men may be of the ſame judge<g ref="char:EOLhyphen"/>ment, yet ſit very looſe fro<g ref="char:cmbAbbrStroke">̄</g> one another. Heads touch like 2 Globes but in <hi>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ncto.</hi> Hearts joyne in <hi>plano</hi> and make an in corporation of each into other.</note> Is your way <hi>the fulneſſe of him that fills all in all?</hi> Can your refuſe-Brethren in Conference and Com<g ref="char:EOLhyphen"/>munication of ſpirituall gifts, adde nothing to you? Is there not moſt, oft-times, in things that are moſt deſpiſed?</p>
+            <p>Would Chriſt have ſuch deſperate Experiments practiſed upon his members, to <hi>kill</hi> them, if you cannot <hi>cure</hi> them of their leſſer errours; to fine them, priſon them, baniſh them, which to ſome perſons and eſtates, is little more mercy then to knock them on the head? Doth not nature teach to beare with a blain or blemiſh, ra<g ref="char:EOLhyphen"/>ther then to deſtroy the body? Is Chriſt ſo put to it, quite out of hope? May they not be gained hereafter? Are their opinions dam<g ref="char:EOLhyphen"/>nable, either in themſelves, or proper conſequences? Are they not further ingaged to perſiſt in their wayes good or bad, by ſuffering <hi>for ſuch</hi> things ſo deeply, and is not the bridge of retractation drawne up thereby?</p>
+            <p>Conſider theſe things, and take heed what you doe unto theſe men; the Lord hath made <hi>Jeruſalem</hi> a burdenſome ſtone, that ſhall cruſh all that attempt to remove her. If our Way be of God, you cannot overthrow it; You may ſhew your ſelves fighters againſt God, and get the reward of ſuch, and that's all. Take heed of walking contrary unto God, of caſting ſhame on thoſe, on whom he hath reflected ſuch eminent honour, both in the Army and o<g ref="char:EOLhyphen"/>therwiſe: For I aske you, By whom hath God more deliver'd us
+<pb n="12" facs="tcp:110973:8"/>hitherto? Who have ſhewed themſelves more valiant in fight<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? who have oftner put to flight the <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mies of the Aliens</hi> in the North, and elſ-where, but thoſe men that in the end ſhall be put to flight themſelves, if ſome may have their will? <hi>The ſword of the Lord,</hi> and deſpiſed <hi>Gideon,</hi> hath ſaved this Nation: <hi>Saul hath ſlaine his thou<g ref="char:EOLhyphen"/>ſand<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and David his ten thouſands.</hi> Let no man envy. God will be acknowledged in his Inſtruments, as well as in his Attributes. <hi>Take heed of reſiſting the Holy Ghoſt; for that mighty works have been done by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe men, you cannot deny:</hi> their power in prayer, their ſhining doctrine, their exemplary burning converſation, though wee will not paint the blemiſhes of any of them. But <hi>manum de tabula,</hi> I have offer'd my candle; it is in the Lord to proportion the ſucceſſe: To ſome it may be a word in ſeaſon: to others perhaps it will be <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſnare an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a ſtone of ſtumbling.</hi>
+            </p>
+            <p>
+               <hi>T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndem vin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et veritas,</hi> Truth ſhall overcome I verily beleeve and expect. <hi>The little Stone <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut out of the Mountaine without hands,</hi> ſhall irreſiſtibly grow, and <hi>fill the whole earth:</hi> and <hi>every plant that the Heavenly Father hath not planted, ſhall he puld up.</hi> Men may root out themſelves by perſecution, as the Prelates have done; but they ſhall never root up the truth.</p>
+            <p>Chriſtian friends and Brethren, if the truth be on your ſide, confide to your Cauſe; ceaſe from force and violence, that you reflect not diſparagement upon it.</p>
+            <p>I would end, as I began, in the ſpirit of love and meekneſſe; <hi>Conſider your calling Brethren, that you are called unto peace;</hi> and take our Lord Jeſus Chriſt for an example, who though he was Lord of all, yet became a ſervant unto all. He was further above his Diſciples in knowledge and underſtanding, then the wiſeſt among us above the ſimpleſt Infant; yet he diſdain'd them not, provoked them not, upbraided them not, puniſht them not, taught them as they were able to beare; after his reſurrection comes to them al<g ref="char:EOLhyphen"/>wayes with this ſalutation, <hi>Peace be unto you;</hi> and ſince his aſcenſi<g ref="char:EOLhyphen"/>on, every Epiſtle brings commendations of <hi>grace and peace.</hi> Conſi<g ref="char:EOLhyphen"/>der of what a ſpirit yee are, and ought to ſhew, a Dove-like ſpi<g ref="char:EOLhyphen"/>rit, and oh that <hi>the voice of this Turtle were heard in our Land!</hi>
+            </p>
+            <p>Were not the nature of my diſcourſe indifferent and generall, I might ſay ſomewhat, which might not onely induce liberty, (as for every way not ſcandalous) but alſo beget a good opinion of
+<pb n="13" facs="tcp:110973:8"/>the <hi>Congregation all way</hi> in ſpeciall. I will ſay but this; <note n="a" place="margin">The <hi>Congre<g ref="char:EOLhyphen"/>gation <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll way</hi> characteri<g ref="char:EOLhyphen"/>zed.</note> 
+               <hi>The mem<g ref="char:EOLhyphen"/>bers of this ſocietie grow up freely unto i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; act freely in it to mutuall com<g ref="char:EOLhyphen"/>fort and edification; they meddle with their own things, and are not buſie with others, without authoritie from Chriſt: They are ready to adviſe, and be adviſed upon every lawfull call and needfull occaſion: They count not themſelves perfect, but ſtand ready to receive further light, yea, though from the meaneſt of the Brethren: They aſpire to be punctuall, yet they al<g ref="char:EOLhyphen"/>low many graines to other Churches, ſo they have the ſubſtance: They are no otherwiſe Independent, but as they depend more upon Chriſt; and leſſe upon men: Though their firſt and immediate regards be to their own, yet they count themſelves debters to all the Churches and members of Chriſt: They will d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e what good they can to rectifie the miſtakes of others that are not of them, but know no remedy but patience, if the truth fall not upon all mens apprehenſions: They ſay not more might not be done or deviſed to reclaime men from errours, but they ſay they have Commiſſion for no more then they practiſe, and they dare not ſay a Confederacy with any meanes, with which the Lord hath not ſaid a Confederacy by his Inſtitution: They boaſt not in their Way, as approving it ſelfe to fleſh and bloud, but as a way of faith, juſtified onely of the Children of Wiſdome, that have learnt to put off their owne underſtanding and fleſhly dependance in the things of God, and to lay the weight of all on Chriſt, who hath given his Word for it. Laſtly, They will communicate in all Ordinances with any true Church of Chriſt, that walks up to their light, and ſhews a readines to receive whatſoever more ſhall be ſhewed them.</hi>
+            </p>
+            <p>Now take this <hi>Way,</hi> and compare it with any other, wiſely, ſpi<g ref="char:EOLhyphen"/>ritually and impartially, according to that<note n="*" place="margin">Joh. 7.18.</note> Rule given by our Saviour; and wee will ſtand to the iſſue and arbitrament of it. Let that Way which raſes the foundation of mans glory, and wholly applyes it ſelfe to the glory of Chriſt the Founder, <hi>bang<g ref="char:EOLhyphen"/>ing</hi> abſolutely on him for a <hi>Word,</hi> either expreſſe or els by conſe<g ref="char:EOLhyphen"/>quence, to every thing, and a <hi>bleſſing</hi> on every thing they undertake or doe, reſolving all into his care of them, and preſence among them; be acknowledged, countenanced, and practiſed among us, as the Way and truth of God, having no unrighteouſneſſe in it.</p>
+            <p>And let that Way which neglecting or denying Chriſts ſuffici<g ref="char:EOLhyphen"/>ency of rule and direction, and the pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>miſe of his grace and pro<g ref="char:EOLhyphen"/>tection, apply themſelves to man, to ſupply them with precepts, and ſupport them with the fleſhly arme of numbers and multi<g ref="char:EOLhyphen"/>tudes,
+<pb n="14" facs="tcp:110973:9"/>of power and authoritie, be diſcarded as the way of man.</p>
+            <p>And if wee after all our caſting and contriving, cannot come to you, ſee (if you would not be wanting to this Accord which you have ſo much in your mouths) if you can come to us; which no queſtion, but <hi>all</hi> that are godly could moſt heartily doe, as ſome of you have expreſt in termes upon ſerious conſideration of our Way, (for what is there to offend you, but a further degree of pu<g ref="char:EOLhyphen"/>ritie aymed at in the body, the worſhip being alike in both?) and others in termes aequivalent, as that they beleeve it will not ceaſe till it come to this Way, which they grant was the Primitive way, and is the pureſt, and the <hi>Presbyterian way</hi> is but a ſtep there<g ref="char:EOLhyphen"/>to, and will reſt here as its center, and end in this as its perfecti<g ref="char:EOLhyphen"/>on. For our parts, wee have waited mannerly all this while, and wee are heartily grieved, that the particulars of difference between us remaine yet ſo many, nay, that there are any, and eſpecially ſo important, that we cannot yeeld to you therein. For as he ſaid well, <hi>Amicus Plato, Amicus Ariſtoteles, ſed magis amica veritas.</hi>
+            </p>
+         </div>
+         <div type="errata">
+            <p>
+               <hi>Pag.</hi> 3. l. <hi>ult.</hi> hedg'd <hi>r.</hi> wedg'd.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
